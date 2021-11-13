@@ -1,0 +1,7 @@
+print ("enter first number x")
+x = input()
+print ("enter your second number y")
+y = input()
+
+print ("sum of two value is",  int(x)+ int(y))
+
